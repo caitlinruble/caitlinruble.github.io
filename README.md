@@ -11,7 +11,7 @@ A project which overlays global solar power generation capacity data on a backgr
 
 Python tools: Pandas, Scikit Learn, XGBoost, Random Forest, AdaBoost, SVM, GridSearchCV, RandomSearchCV, Matplotlib, Seaborn, Predictive Power Score, Feature Importances
 
-![](images/Patient-Diagnosis-Model.png)
+![](images/Patient Diagnosis Model.png)
 
 
 ## Project 3: Skin Cancer Image Detection:
