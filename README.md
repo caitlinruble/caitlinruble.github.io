@@ -17,3 +17,8 @@ Python tools: Pandas, Scikit Learn, XGBoost, Random Forest, AdaBoost, SVM, GridS
 ## Project 3: Skin Cancer Image Detection:
 
 Coming soon!
+
+
+## [Springboard Work](https://github.com/caitlinruble/Springboard-Work):
+
+Some selected work from my 550hr+ data science intensive course
