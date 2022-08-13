@@ -1,4 +1,4 @@
-#Caitlin Ortega Ruble's Github Pages File
+# Caitlin Ortega Ruble's Github Pages File
 
 ## Project 1: [Tableau Dashboard](https://public.tableau.com/app/profile/caitlin.ortega.ruble/viz/GlobalSolarAnalysis/GlobalDashboard?publish=yes)
 A project which overlays global solar power generation capacity data on a background map which shows photovoltaic power potential. The dashboard is intended to be used as a tool for solar businesses assessing international market potential based on where solar power is and isn't being used along with which locations have the greatest potential.
