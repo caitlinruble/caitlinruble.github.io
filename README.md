@@ -1,3 +1,10 @@
+## Project 1: [Tableau Dashboard](https://public.tableau.com/app/profile/caitlin.ortega.ruble/viz/GlobalSolarAnalysis/GlobalDashboard?publish=yes)
+A project which overlays global solar power generation capacity data on a background map which shows photovoltaic power potential. The dashboard is intended to be used as a tool for solar businesses assessing international market potential based on where solar power is and isn't being used along with which locations have the greatest potential.
+
+![img](
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/caitlinruble/caitlinruble.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -23,7 +30,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](/caitlinruble.github.io/images/Tableau Dashboard Image.png)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
